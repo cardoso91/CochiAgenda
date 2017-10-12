@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/cardoso/.android/build-cache/0e9b09a56ae8358b49b7b871f7aa948cf9290c69/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/cardoso/AndroidStudioProjects/CochiAgenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fef8c33279a4b3a3ab4e530de9e9b6d12ee564f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cardoso/.android/build-cache/761b4fda02b704160b84dfebc30a828858eb62ee/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/cardoso/AndroidStudioProjects/CochiAgenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1ca9b3b8956b95d3c6262bad159640edc11ddb36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cardoso/.android/build-cache/9993d5234a09867e6ce7bd4097093aa0fffd439b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/cardoso/AndroidStudioProjects/CochiAgenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_895d044a68c096d9479e9dcf78554ee3e9c97b14/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cardoso/.android/build-cache/351b2d18452c2d797a388705e7ad78982d5c112d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/cardoso/AndroidStudioProjects/CochiAgenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5f019da0487e081eb2ee6155f96005742dd1d053/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cardoso/.android/build-cache/3d5775cef46999ef48e18d990ca7a7ee7541263d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/cardoso/AndroidStudioProjects/CochiAgenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6ab12354c9cb7f291a84fc46265e23a17b6c1661/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cardoso/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/cardoso/AndroidStudioProjects/CochiAgenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_754070cf9146fa375a39e4ea10c30be02ea4ac5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cardoso/.android/build-cache/245ce6a2af379f4bb59c7e05e5a3e16f07b5531d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/cardoso/AndroidStudioProjects/CochiAgenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4647a409ab6688435310f96d155672c1f781399d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cardoso/AndroidStudioProjects/CochiAgenda/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="630055e8022bc092d68abb47ab785d442000564f">
+        <dex dex="/Users/cardoso/AndroidStudioProjects/CochiAgenda/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_254888d5d5e53d5c6b93d6e83c8ec3f64420fcbe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cardoso/AndroidStudioProjects/CochiAgenda/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/cardoso/AndroidStudioProjects/CochiAgenda/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0373f3723885e4613e2d5b17aa34e8faa153153a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cardoso/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta2/constraint-layout-solver-1.0.0-beta2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5436cefb7e5c057655ed13ad54b56e1931f47fe">
+        <dex dex="/Users/cardoso/AndroidStudioProjects/CochiAgenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-beta2_0d8f7939736d081b5d06ccd843047eaf51df9826/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cardoso/.android/build-cache/d7a497efed69da3e9564f5092ac0cb4346568622/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2077d7df72a3bd79570646c4524cee598d1344a2">
+        <dex dex="/Users/cardoso/AndroidStudioProjects/CochiAgenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_965448f7c7254f0fdb6e778216c7b7790234bea6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cardoso/.android/build-cache/01b0ec454726e31552d8125832d66f414af83a5e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/cardoso/AndroidStudioProjects/CochiAgenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_77db9247ef0a19295cfe64610c048d18239549be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cardoso/.android/build-cache/98540744eab234f63bce20d7a0384b5cb34b2fde/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/cardoso/AndroidStudioProjects/CochiAgenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_643c19180acdf363700d690ef9b866f64b29f9b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cardoso/.android/build-cache/8ed69c83825cc0b98586c1daf23d0182c82a0130/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/cardoso/AndroidStudioProjects/CochiAgenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e7b14a20c06af37397106917ef1951d8ba71cdc3/classes.dex" />
+    </item>
+
+</items>

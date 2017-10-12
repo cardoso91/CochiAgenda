@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PiggyAgenda</string>
+
+    <string name="lblNombre">Name:</string>
+    <string name="hintNombre">Name</string>
+
+    <string name="lblDireccion">Address:</string>
+    <string name="hintDireccion">Address</string>
+
+    <string name="lblTelefono">Phone Number:</string>
+    <string name="hintTelefono">Phone Nummber</string>
+
+    <string name="btnGuardar">Save</string>
+</resources>

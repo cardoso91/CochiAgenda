@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CochiAgenda</string>
+
+    <string name="lblNombre">Nombre:</string>
+    <string name="hintNombre">Nombre</string>
+
+    <string name="lblDireccion">Direccion:</string>
+    <string name="hintDireccion">Direccion</string>
+
+    <string name="lblTelefono">Telefono:</string>
+    <string name="hintTelefono">Telefono</string>
+
+    <string name="btnGuardar">Guardar</string>
+
+    <string name="menu_registro">Registro</string>
+
+</resources>
